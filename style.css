@@ -1,0 +1,28 @@
+/*type selector*/
+body{
+  text-align: center;
+  background-color: #2494cc;
+  margin:0pt;
+}
+
+/*type selector*/
+h1{
+  color: #e3e9ee;
+  font-size: 20pt;
+  font-family: cursive;
+}
+h2{
+  color: #e3e9ee;
+  font-size: 20pt;
+  font-family: cursive;
+}
+/*class selector*/
+.Selection1{
+  color:
+}
+
+
+/*id selector*/
+#para1{
+  color:
+}
